@@ -1,0 +1,29 @@
+{
+  "name": "discord-ai-bot",
+  "version": "1.0.0",
+  "description": "Discord AI bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayserdny/discord-ai-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "bot",
+    "javascript",
+    "nodejs",
+    "ai"
+  ],
+  "author": "Jayser Mendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayserdny/discord-ai-bot/issues"
+  },
+  "homepage": "https://github.com/jayserdny/discord-ai-bot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3"
+  }
+}

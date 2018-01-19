@@ -18,6 +18,6 @@ To run, you need to excecute the following command:
 AUTH_TOKEN=<your-discord-token> API_AI=<your-api-ai-key> node main.js
 ```
 
-### Contributos
+### Contributors
 
 To contribute to this project, fork this repo and make a pull request with your changes.

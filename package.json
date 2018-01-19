@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/jayserdny/discord-ai-bot#readme",
   "dependencies": {
-    "apiai": "^4.0.3"
+    "apiai": "^4.0.3",
+    "discord.js": "^11.3.0"
   }
 }
